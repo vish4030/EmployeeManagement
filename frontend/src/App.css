@@ -1,0 +1,16 @@
+/* App Container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f5f5f5; /* Light background */
+  font-family: Arial, sans-serif; /* Global font */
+}
+
+/* Main Content */
+.main-content {
+  flex: 1;
+  padding: 2rem; /* Padding for content area */
+  background: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+}

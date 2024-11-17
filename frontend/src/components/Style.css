@@ -1,0 +1,13 @@
+
+/* Navbar */
+
+.navbar{background: var(--sky-blue); width: 100%;  }
+.navbar h2{color: var(--bg-white); padding: 1rem;}
+.navbar ul{justify-content: center; align-items: center;}
+.navbar ul li{margin-right: 2rem; font: 400 16px var(--ffl);}
+.navbar a{color: #000; display: block; border-bottom: 3px solid var(--sky-blue); padding:1.2rem 0;}
+.navbar a:hover{ border-bottom: 3px solid var(--light-pink);}
+
+/* Navbar */
+
+
